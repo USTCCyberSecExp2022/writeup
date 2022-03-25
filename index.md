@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 2022 USTC CyberSec Experiment
 
-You can use the [editor on GitHub](https://github.com/USTCCyberSecExp2022/writeup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这里是2022年中科大信息安全设计与实践课程的官方与非官方题解，所有同学都可以**在课程结束之前的任何时间**将自己的题解 Markdown 发送到 3497511332 AT qq.com,我们会整理后发布到这里。 官方题解会在每周一更新，非官方题解会在每周做题截止之后尽快更新。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Content of Write-Up
+### Official write-up of Grade 1
+- 暂无
+### Unofficial write-up of Grade 1
+- 暂无
+### Official write-up of Grade 2
+- 暂无
+### Unofficial write-up of Grade 2
+- 暂无
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/USTCCyberSecExp2022/writeup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_powered by Jekyll_
