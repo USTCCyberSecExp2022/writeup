@@ -3,12 +3,11 @@
 
 ## Content of Write-Up
 ### Official write-up of Grade 1
-<!-- - [第一次官方题解](./officialwp1/20220321) -->
-<!-- - ![](./pics/snek2.png) -->
+- [第一次官方题解](./officialwp1/20220321)
 ### Unofficial write-up of Grade 1
 - 暂无
 ### Official write-up of Grade 2
-- 暂无
+<!-- - [第一次官方题解](./officialwp2/20220321) -->
 ### Unofficial write-up of Grade 2
 - 暂无
 
