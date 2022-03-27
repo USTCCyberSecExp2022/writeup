@@ -6,10 +6,10 @@
 - [第一次官方题解](./officialwp1/20220321)
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
-- [郭奕辰的题解](./unofficialwp1/1/guoyichen.md)
-- [秦浪的题解](./unofficialwp1/1/qinlang.md)
-- [夏智铎的题解](./unofficialwp1/1/xiazhiduo.md)
-- [关佳旺_虚假的安全题解](./unofficialwp1/1/guanjiawang.md)
+- [郭奕辰的题解](./unofficialwp1/1/guoyichen)
+- [秦浪的题解](./unofficialwp1/1/qinlang)
+- [夏智铎的题解](./unofficialwp1/1/xiazhiduo)
+- [关佳旺_虚假的安全题解](./unofficialwp1/1/guanjiawang)
 ### Official write-up of Grade 2
 - [第一次官方题解](./officialwp2/20220321)
 ### Unofficial write-up of Grade 2
