@@ -7,7 +7,7 @@
 ### Unofficial write-up of Grade 1
 - 暂无
 ### Official write-up of Grade 2
-<!-- - [第一次官方题解](./officialwp2/20220321) -->
+- [第一次官方题解](./officialwp2/20220321)
 ### Unofficial write-up of Grade 2
 - 暂无
 
