@@ -2,10 +2,6 @@
 
 > 郭奕辰 PB20151789
 
-> 67:MEQCIDJqMca06BxL3buPL1Po3t5aAZ0F2500P+JoW8bTkxfwAiBfJS6WlodmeGIRMdciHecGqWdtchRRsJF0FQsfnMzpkg==
-
-话说题解是不是不用带 token 来着？要是的话我下次就不带了。
-
 ---
 
 ## 进制十六——参上
