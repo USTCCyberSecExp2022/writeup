@@ -1,4 +1,4 @@
-# 2022 中科大信息安全设计与实践 官方与非官方题解
+# 2022 Design and Practice of Information Security I： Writeup
 这个地方放说明 给内部人员用-.-
 - 显示的 markdown 在 gh-pages branch , 可以添加题解。
 - 记得分好类放到对应文件夹下，命名规则建议年月日， eg: 20220321 
