@@ -1,5 +1,4 @@
-# 信息安全实践一级第二周WP
-
+#Writeup of Design and Practice of Information Security I：Week Ⅱ
 ### GET
 
 解题思路1：直接在浏览器的URL处进行交互，需要注意的是*/get.php*表示访问的是当前服务器目录下的get.php文件，？告诉接收方，我以GET的方式传了一些变量名，若以GET方式需要传多个变量名，只需要一个？，不同变量之间用&隔开，例如本题为：？what=flag&token=**12345
