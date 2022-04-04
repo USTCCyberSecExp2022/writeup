@@ -51,7 +51,7 @@ print(r.status_code)#打印响应状态码（非必需）
 
 运行脚本后得到如下结果
 
-![屏幕截图 2022-04-03 195255](D:\Documents\2-2\InfoSec_Prac1\week2\屏幕截图 2022-04-03 195255.jpg)
+![屏幕截图 2022-04-03 195255](./imgs/2.jpg)
 
 在响应的最后一行得到flag（最后一行200为`print(r.status_code)`语句得到的HTTP状态码，200对应名称为“OK”，表示请求成功。一般用于GET与POST请求）
 
@@ -61,7 +61,7 @@ print(r.status_code)#打印响应状态码（非必需）
 
 下载附件“backup.zip”，打开后显示文件压缩分卷有缺失
 
-![image-20220401171728400](C:\Users\GJW\AppData\Roaming\Typora\typora-user-images\image-20220401171728400.png)
+![image-20220401171728400](./imgs/1.png)
 
 用Hex软件打开压缩文件，查看文件问题，同时搜索资料，了解.zip文件格式~~（在实验前一天看到了原本的题目描述，了解到此文件的文件头有所损坏）~~
 
