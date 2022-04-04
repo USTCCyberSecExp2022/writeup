@@ -4,15 +4,20 @@
 ## Content of Write-Up
 ### Official write-up of Grade 1
 - [第一次官方题解](./officialwp1/20220321)
+- [第二次官方题解](./officialwp1/20220328)
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
 - [郭奕辰的题解](./unofficialwp1/1/guoyichen)
 - [秦浪的题解](./unofficialwp1/1/qinlang)
 - [夏智铎的题解](./unofficialwp1/1/xiazhiduo)
 - [关佳旺_虚假的安全题解](./unofficialwp1/1/guanjiawang)
+#### 第二次 HTTP基础
+- [陈飞扬的题解](./unofficialwp1/2/chenfeiyang)
+- [陈昕暄的题解](./unofficialwp1/2/chenxinxuan)
+- [关佳旺4.3_On_Sale&Uncompleted+题解](./unofficialwp1/2/guanjiawang)
 ### Official write-up of Grade 2
 - [第一次官方题解](./officialwp2/20220321)
+- 二级某助教太懒了没写(bs)
 ### Unofficial write-up of Grade 2
-#### 第一次 总述
 
 _powered by Jekyll_
