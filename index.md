@@ -5,6 +5,7 @@
 ### Official write-up of Grade 1
 - [第一次官方题解](./officialwp1/20220321)
 - [第二次官方题解](./officialwp1/20220328)
+- [第三次官方题解](./officialwp1/20220402)
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
 - [郭奕辰的题解](./unofficialwp1/1/guoyichen)
@@ -15,9 +16,15 @@
 - [陈飞扬的题解](./unofficialwp1/2/chenfeiyang)
 - [陈昕暄的题解](./unofficialwp1/2/chenxinxuan)
 - [关佳旺4.3_On_Sale&Uncompleted+题解](./unofficialwp1/2/guanjiawang)
+
+#### 第三次 信息收集
+
+- 目前还莫得 大家积极投稿 - . -
+
 ### Official write-up of Grade 2
 - [第一次官方题解](./officialwp2/20220321)
 - 二级某助教太懒了没写(bs)
 ### Unofficial write-up of Grade 2
 
 _powered by Jekyll_
+
