@@ -8,6 +8,7 @@
 - [第三次官方题解](./officialwp1/20220402)
 - [第四次官方题解](./officialwp1/20220411)
 - [第五次官方题解](./officialwp1/20220418)
+- [kazari官方题解](./officialwp1/kazari)
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
 - [郭奕辰的题解](./unofficialwp1/1/guoyichen)
