@@ -9,6 +9,7 @@
 - [第四次官方题解](./officialwp1/20220411)
 - [第五次官方题解](./officialwp1/20220418)
 - [kazari官方题解](./officialwp1/kazari)
+- 第六第七次被出题人咕咕了 已经在催了
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
 - [郭奕辰的题解](./unofficialwp1/1/guoyichen)
@@ -23,6 +24,11 @@
 #### 第三次 信息收集
 
 - 目前还莫得 大家积极投稿 - . -
+
+#### 第六次 Crypto2
+
+- [陈飞扬的题解-自己发明一个RSA](./unofficialwp1/6/cfy)
+- [郭奕辰的题解-RSA Rarity Oracle](./unofficialwp1/6/gyc)
 
 ### Official write-up of Grade 2
 - [第一次官方题解](./officialwp2/20220321)
