@@ -35,9 +35,9 @@
 
 - [袁保杰的题解-Final Trial](./unofficialwp1/7/tgx)
 
-#### 第八次 Misc1
+<!-- #### 第八次 Misc1
 
-- [陈飞扬的题解-Steins;Gate](./unofficialwp1/8/cfy)
+- [陈飞扬的题解-Steins;Gate](./unofficialwp1/8/cfy) -->
 
 ### Official write-up of Grade 2
 - [第一次官方题解](./officialwp2/20220321)
