@@ -1,5 +1,7 @@
 # 2022 USTC CyberSec Experiment
-这里是2022年中科大信息安全设计与实践课程的官方与非官方题解，所有同学都可以**在课程结束之前的任何时间**将自己的题解 Markdown 发送到 3497511332 AT qq.com,我们会整理后发布到这里。 官方题解会在每周一更新，非官方题解会在每周做题截止之后尽快更新。
+这里是 2022 年中科大信息安全设计与实践课程的官方与非官方题解，所有同学都可以**在课程结束之前的任何时间**将自己的题解 Markdown 发送到 3497511332 AT qq.com，我们会在整理后发布到这里。
+
+官方题解会在每周一更新，非官方题解会在每周做题截止之后尽快更新。
 
 ## Content of Write-Up
 ### Official write-up of Grade 1
@@ -11,6 +13,8 @@
 - [kazari官方题解](./officialwp1/kazari)
 - 第六次被出题人咕咕了 已经在催了
 - [第七次官方题解](./officialwp1/reverse.md)
+- [第八次官方题解](./officialwp1/misc1/misc1.md)
+- [第九次官方题解](./officialwp1/misc2/misc2.md)
 ### Unofficial write-up of Grade 1
 #### 第一次 总述
 - [郭奕辰的题解](./unofficialwp1/1/guoyichen)
@@ -33,7 +37,7 @@
 
 #### 第七次 Reverse
 
-- [袁保杰的题解-Final Trial](./unofficialwp1/7/tgx)
+- [田宫欣的题解-Final Trial](./unofficialwp1/7/tgx)
 
 <!-- #### 第八次 Misc1
 
